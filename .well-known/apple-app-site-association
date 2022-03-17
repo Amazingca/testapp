@@ -1,10 +1,5 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "G6SX37JD8W.testapp.amazingca.dev"
-      }
-    ]
+  "webcredentials": {
+    "apps": [ "G6SX37JD8W.dev.amazingca.testapp" ]
   }
 }
